@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58560575372",
+    "firebase_url": "https://week11class.firebaseio.com",
+    "project_id": "week11class",
+    "storage_bucket": "week11class.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58560575372:android:fc2f1bfe8a37b3fef548a9",
+        "android_client_info": {
+          "package_name": "edu.skku.map.week11_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58560575372-0sk2eggarh3lg9cc86h8lbfnebm6nsvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW7vpqCf6xe2ze43zVOOh_J6SZB0AE254"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58560575372-0sk2eggarh3lg9cc86h8lbfnebm6nsvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

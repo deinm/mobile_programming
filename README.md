@@ -9,3 +9,12 @@
 
 - custom ListView
 - Firebase Realtime Database(POST+GET)
+
+> week 10
+
+- Firebase Realtime Database
+- Firebase Notification
+
+> week 11
+
+- Firebase Storage Upload & Download

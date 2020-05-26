@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17098279680",
+    "firebase_url": "https://week10class.firebaseio.com",
+    "project_id": "week10class",
+    "storage_bucket": "week10class.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17098279680:android:d238492e3c7615a68281e5",
+        "android_client_info": {
+          "package_name": "edu.skku.map.week10_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17098279680-aso4i7iqjpasrt4kueuua674or5odm21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClu_EgxAhE4O-SUdlXon-fyww8NFqVcqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17098279680-aso4i7iqjpasrt4kueuua674or5odm21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

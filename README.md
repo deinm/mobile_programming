@@ -1,5 +1,14 @@
 # mobile_programming
 
+> week 4
+
+- Listview
+
+> week 5
+
+- Change Activity(Intent)
+- ACTION_WEB_SEARCH
+
 > week 8
 
 - GET/POST request
@@ -18,3 +27,7 @@
 > week 11
 
 - Firebase Storage Upload & Download
+
+> week 12
+
+- KaKao API (Login, Messaging)
